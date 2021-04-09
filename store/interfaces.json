@@ -1,0 +1,6 @@
+{
+  "order-manager-example": {
+    "component": "OrderManager",
+    "render": "client"
+  }
+}
